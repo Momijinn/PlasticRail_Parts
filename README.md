@@ -1,0 +1,2 @@
+# PlasticRail_Parts
+プラレールの自動化で使ったSTLファイル
